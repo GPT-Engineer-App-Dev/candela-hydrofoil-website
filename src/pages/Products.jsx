@@ -5,17 +5,17 @@ const products = [
   {
     name: "C-8",
     description: "The world's first electric hydrofoil speedboat, perfect for day trips and water sports.",
-    image: "/placeholder.svg",
+    image: "/images/candela-c8.jpg",
   },
   {
     name: "P-12",
     description: "A revolutionary electric water taxi, designed for efficient and comfortable passenger transport.",
-    image: "/placeholder.svg",
+    image: "/images/candela-p12.jpg",
   },
   {
     name: "C-POD",
     description: "Our advanced electric boat motor, providing silent and powerful propulsion for various vessels.",
-    image: "/placeholder.svg",
+    image: "/images/candela-c-pod.jpg",
   },
 ];
 

@@ -27,7 +27,7 @@ const Technology = () => {
           </Card>
         </div>
         <div>
-          <img src="/placeholder.svg" alt="Hydrofoil Technology" className="w-full h-auto rounded-lg shadow-lg" />
+          <img src="/images/hydrofoil-technology.jpg" alt="Hydrofoil Technology" className="w-full h-auto rounded-lg shadow-lg" />
         </div>
       </div>
     </div>

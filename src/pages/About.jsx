@@ -21,7 +21,7 @@ const About = () => {
           </Card>
         </div>
         <div className="md:w-1/2">
-          <img src="/placeholder.svg" alt="Candela Hydrofoil" className="w-full h-auto rounded-lg shadow-lg" />
+          <img src="/images/candela-hero.jpg" alt="Candela Hydrofoil" className="w-full h-auto rounded-lg shadow-lg" />
         </div>
       </div>
     </div>
