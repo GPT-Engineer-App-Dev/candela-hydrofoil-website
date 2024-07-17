@@ -1,9 +1,9 @@
 import { Home, Info, Package, Zap, Mail } from "lucide-react";
-import Index from "./pages/Index.jsx";
-import About from "./pages/About.jsx";
-import Products from "./pages/Products.jsx";
-import Technology from "./pages/Technology.jsx";
-import Contact from "./pages/Contact.jsx";
+import Index from "./pages/Index";
+import About from "./pages/About";
+import Products from "./pages/Products";
+import Technology from "./pages/Technology";
+import Contact from "./pages/Contact";
 
 export const navItems = [
   {
